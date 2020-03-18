@@ -18,7 +18,7 @@ immediately.
 All dependencies should be installed automatically by the script on first use.
 
 ### Dependencies
-All dependencies should be installed automatically by the script on first use.
+`All dependencies should be installed automatically by the script on first use.`
 - [Keuze](https://github.com/JodusNodus/keuze)
 
 ## Usage
