@@ -15,13 +15,11 @@ more is possible, as it accepts text via *stdin* and can pipe a user choice via
 ## Installation
 Simply download the MacOs App, you can double click it and it should run
 immediately. 
+All dependencies should be installed automatically by the script on first use.
 
 ### Dependencies
+All dependencies should be installed automatically by the script on first use.
 - [Keuze](https://github.com/JodusNodus/keuze)
-
-**Missing dependencies may need to be installed before first use and may require
-an internet connection.**
-
 
 ## Usage
 When launching the app, a floating window opens with a list of all installed
