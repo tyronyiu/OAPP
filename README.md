@@ -1,3 +1,6 @@
+![screenshot1](https://i.ibb.co/pPbMwKb/Screenshot-2020-03-18-at-21-32-17.png)
+![screenshot2](https://i.ibb.co/18VH8SH/Screenshot-2020-03-18-at-21-32-46.png)
+
 ## Introduction
 `MacOs Dmenu application launcher`
 
